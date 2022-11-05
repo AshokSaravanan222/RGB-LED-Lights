@@ -26,3 +26,4 @@ It is very detailed and is what allowed me to make my own implementation.
 I am currently working on a program that can utilize both alexa and homekit into one program.
 
 # Thanks
+[Mixiaoxiao](https://github.com/Mixiaoxiao/Arduino-HomeKit-ESP8266)
